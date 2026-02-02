@@ -1,12 +1,10 @@
 # 🛒 Target: Exploring ecommrece Trends and customer behaviour
 
-**SQL | Google BigQuery**
-
 ## 📌 Project Overview
 This project focuses on analyzing **Target’s e-commerce operations in Brazil** using **SQL on Google BigQuery**.  
 The goal is to uncover insights related to **order trends, customer distribution, payments, delivery performance, and regional behavior** to support data-driven business decisions.
 
-The analysis is entirely SQL-driven and mimics real-world analytics work performed by data analysts.
+The analysis is entirely SQL-driven and demonstrates practical data analytics workflows applied to real business questions.
 
 ---
 
