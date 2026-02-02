@@ -12,10 +12,14 @@ The analysis is entirely SQL-driven and demonstrates practical data analytics wo
 The dataset represents Target’s Brazilian e-commerce ecosystem and consists of multiple relational tables.
 
 ### Tables Used
-- **customers** – customer location and unique identifiers  
-- **orders** – order lifecycle timestamps  
-- **order_items** – product-level details and freight costs  
-- **payments** – payment methods, values, and installments  
+- **customers** – customer information and location details  
+- **sellers** – seller information and seller locations  
+- **orders** – order lifecycle timestamps and order status  
+- **order_items** – product-level details, pricing, and freight costs  
+- **products** – product category and product attributes  
+- **payments** – payment methods, values, and installment details  
+- **reviews** – customer reviews and review scores  
+- **geolocation** – geographic location data (latitude, longitude, zip codes)
 
 ---
 
