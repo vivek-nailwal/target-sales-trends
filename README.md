@@ -81,3 +81,16 @@ The dataset represents Target’s Brazilian e-commerce ecosystem and consists of
 ---
 
 ## 📁 Repository Structure
+Target-SQL-Analysis/
+│
+├── queries/
+│   ├── data_exploration.sql
+│   ├── order_trends.sql
+│   ├── customer_analysis.sql
+│   ├── revenue_logistics.sql
+│   └── delivery_payment.sql
+│
+├── screenshots/
+│   └── query_results/
+│
+├── README.md
