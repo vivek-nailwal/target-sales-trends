@@ -79,19 +79,3 @@ The dataset represents Target’s Brazilian e-commerce ecosystem and consists of
 - Order timing analysis highlights peak hours for potential targeted marketing
 
 ---
-
-## 📁 Repository Structure
-target-sql-analysis/
-│
-├── queries/
-│   ├── data_exploration.sql        # Schema checks, time range, basic counts
-│   ├── order_trends.sql            # Yearly, monthly, time-of-day analysis
-│   ├── customer_analysis.sql       # Customer & state-level insights
-│   ├── revenue_logistics.sql       # Payments, order value, freight analysis
-│   ├── delivery_payment.sql        # Delivery time & payment behavior
-│
-├── screenshots/
-│   └── query_results/              # BigQuery output screenshots
-│
-├── README.md
-
